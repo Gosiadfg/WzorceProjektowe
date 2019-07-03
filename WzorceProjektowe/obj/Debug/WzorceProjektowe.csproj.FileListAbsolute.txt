@@ -1,0 +1,2 @@
+C:\Users\G\Source\Repos\WzorceProjektowe\WzorceProjektowe\obj\Debug\WzorceProjektowe.csprojAssemblyReference.cache
+C:\Users\G\Source\Repos\WzorceProjektowe\WzorceProjektowe\obj\Debug\WzorceProjektowe.csproj.CoreCompileInputs.cache
